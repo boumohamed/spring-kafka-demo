@@ -6,6 +6,9 @@
 ![Kafka supplier demo](https://github.com/boumohamed/spring-kafka-demo/blob/main/demo/Kafka-supplier-demo.gif)
 # Pages visits analysis
 ![image](https://user-images.githubusercontent.com/62290643/212536599-1adc2990-ee70-4d16-83da-e69a02c89959.png)
+# Pages visits analysis Rest
+![image](https://user-images.githubusercontent.com/62290643/212538987-f946f594-53b4-463b-915f-c0446e1ef6a8.png)
+
 
 
 
